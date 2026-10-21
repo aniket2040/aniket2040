@@ -1,3 +1,5 @@
+<p align="center">
+  <a href="https://www.linkedin.com/in/aniket-kumar-79b173273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><img width="2048" height="768" alt="AI Engineer Building Intelligent Systems" src="https://github.com/user-attachments/assets/01883113-5439-4bb2-b525-01563bfaf730" />
 <h1 align="center">Hi, I'm Aniket Kumar 👋</h1>
 
 <p align="center">
@@ -5,8 +7,8 @@
   B.Tech CSE (AI/ML) @ Amity University Chhattisgarh · CGPA 8.12
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aniket-kumar-79b173273"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+
   <a href="mailto:aniket8873kumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://komarev.com/ghpvc/?username=aniket2040&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
